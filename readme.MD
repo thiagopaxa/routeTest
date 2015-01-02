@@ -10,10 +10,7 @@ it's just an experience for my own skill testing
 
 ```
   npm install
-
-```
-
-```
+  
   npm start
 
 ```
